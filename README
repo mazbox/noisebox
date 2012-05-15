@@ -1,0 +1,14 @@
+noisebox - a synth for the raspberry pi (and Akai LPD8)
+
+This should work with the debian squeeze distro for raspberry pi.
+
+the only thing you need to install is libasound2-dev, which you can do by typing 
+
+sudo apt-get install libasound2-dev
+
+into your raspberry pi's terminal.
+
+
+to make it, cd into the folder, and type "make"
+
+Let me know if there's any problems!
